@@ -1,4 +1,4 @@
-## Hi there 👋
+## -> Compétition de robotique basée sur Château Thierry
 
 <!--
 **ChallengeRobotik/challengerobotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
